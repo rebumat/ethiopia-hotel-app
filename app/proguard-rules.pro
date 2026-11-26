@@ -1,0 +1,1 @@
+-keep class et.hotelbooking.app.data.** { *; }

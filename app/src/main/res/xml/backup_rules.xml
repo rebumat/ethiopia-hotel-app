@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Identity documents are never included in backups. -->
+<full-backup-content>
+    <exclude domain="file" path="id_docs/" />
+    <exclude domain="database" path="ethio_hotels.db" />
+</full-backup-content>

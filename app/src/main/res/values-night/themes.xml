@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.EthioHotels" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">#FF121411</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="colorPrimary">@color/brand_gold</item>
+        <item name="colorAccent">@color/brand_gold</item>
+    </style>
+</resources>

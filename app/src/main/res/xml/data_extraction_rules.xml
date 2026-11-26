@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="file" path="id_docs/" />
+        <exclude domain="database" path="ethio_hotels.db" />
+    </cloud-backup>
+    <device-transfer>
+        <exclude domain="file" path="id_docs/" />
+    </device-transfer>
+</data-extraction-rules>
